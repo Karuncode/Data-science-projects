@@ -1,9 +1,6 @@
-# Data-science-projects
-Youtube Trending page analysis (dataset 2022)
+# YouTube Trending Page Analysis (India - 2022)
 [Karan_Youtube_powerbi[1].pdf](https://github.com/Karuncode/Data-science-projects/files/12746117/Karan_Youtube_powerbi.1.pdf)
 ---
-# YouTube Trending Page Analysis (India - 2022)
-
 ## Overview
 
 This project analyzes YouTube trending videos in India for the year 2022, using a dataset sourced from Kaggle. It involves comprehensive data analysis and visualization to uncover patterns in video popularity, including key factors like views, likes, comments, categories, and more.
