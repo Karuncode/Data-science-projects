@@ -35,11 +35,6 @@ The project uses various data visualizations to provide insights, such as:
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib/Seaborn**: Data visualization to generate graphs and charts.
 
-## License
-
-This project is licensed under the MIT License.
-
 Attached a power bi pdf for better visualization
-
 [Karan_Youtube_powerbi[1].pdf](https://github.com/Karuncode/Data-science-projects/files/12746117/Karan_Youtube_powerbi.1.pdf)
 --- 
