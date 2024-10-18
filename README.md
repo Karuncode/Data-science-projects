@@ -1,5 +1,4 @@
 # YouTube Trending Page Analysis (India - 2022)
-[Karan_Youtube_powerbi[1].pdf](https://github.com/Karuncode/Data-science-projects/files/12746117/Karan_Youtube_powerbi.1.pdf)
 ---
 ## Overview
 
@@ -41,4 +40,6 @@ The project uses various data visualizations to provide insights, such as:
 This project is licensed under the MIT License.
 
 Attached a power bi pdf for better visualization
+
+[Karan_Youtube_powerbi[1].pdf](https://github.com/Karuncode/Data-science-projects/files/12746117/Karan_Youtube_powerbi.1.pdf)
 --- 
